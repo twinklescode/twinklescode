@@ -1,14 +1,18 @@
 
-Greetings, World!🌟
-📍 Full Stack Web Dev | Indonesia 🇮🇩
+Greetings, World!🌟 <br />
+📍 Full Stack Web Dev | Indonesia 🇮🇩 <br />
 
-About Me
+<br />
+
+About Me <br />
 I'm a twinkle-twinkle little code, this is my playground!
 
-Professional Journey
-👨‍💻 Full Stack and Backend Developer at a dynamic company in Jakarta.
-🚀 A freelancer.
-🌐 Remote worker.
+Professional Journey <br />
+👨‍💻 Full Stack and Backend Developer at a dynamic company in Jakarta. <br />
+🚀 A freelancer. <br />
+🌐 Remote worker. <br />
+
+<br />
 
 Latest Blog Posts: <br />
 <ul>
