@@ -2,7 +2,6 @@
 Greetings, World!🌟 <br />
 📍 Full Stack Web Dev | Indonesia 🇮🇩 <br />
 
-<br />
 
 About Me <br />
 I'm a twinkle-twinkle little code, this is my playground!
@@ -12,7 +11,6 @@ Professional Journey <br />
 🚀 A freelancer. <br />
 🌐 Remote worker. <br />
 
-<br />
 
 Latest Blog Posts: <br />
 <ul>
