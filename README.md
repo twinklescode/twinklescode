@@ -10,7 +10,7 @@ Professional Journey
 🚀 A freelancer.
 🌐 Remote worker.
 
-Latest Blog Posts:
+Latest Blog Posts: <br />
 <a href="https://medium.com/@twinklescode/simple-realtime-chat-app-tall-stack-f0c7cf4b67ce">https://medium.com/@twinklescode/simple-realtime-chat-app-tall-stack-f0c7cf4b67ce</a>
 <a href="https://medium.com/@twinklescode/simple-role-based-access-control-management-with-laravel-part-1-88b033e338b2">https://medium.com/@twinklescode/simple-role-based-access-control-management-with-laravel-part-1-88b033e338b2</a>
   
